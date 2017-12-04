@@ -1,0 +1,5 @@
+{
+  "sounds" : {
+    "jumpSound" : ["/sfx/tech/honk.ogg"]
+  }
+}

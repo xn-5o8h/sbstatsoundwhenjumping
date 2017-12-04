@@ -1,0 +1,14 @@
+{
+  "name" : "soundWhenJumping",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  // those can be removed so that they don't have a tooltip
+  "label" : "Beep beep", 
+  "icon" : "/interface/statuses/crash.png",
+
+  "animationConfig" : "soundwhenjumping.animation",
+  "animationScripts" : ["aaa.lua"],
+
+  "scripts" : [ "soundwhenjumping.lua" ]
+}
